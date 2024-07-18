@@ -1,4 +1,10 @@
-## [3.0.0] - 26-04-2023
+## [3.0.2] - 18-07-2024
+- Correção: validação sslpinning.
+
+## [3.0.1] - 05-06-2024
+- Melhoria: Atualização da sdk FaceTec(9.6.94)
+
+## [3.0.0] - 26-04-2024
 - Melhoria: Adicionado flag (segurancaExtraSslPinning) para habilitar verificação sslpinning.
 - Melhoria: Adicionado flag (externalDatabaseRefID) id de referência enrollment/match3d-3d.
 - Melhoria: Adicionado flag (processType) para selecionar o tipo de processo ("liveness", "enrollment" ou "match").
@@ -6,19 +12,19 @@
 - Melhoria: Permitir customização dos parâmetros de textos e cores.
 - Melhoria: Atualização da sdk FaceTec(9.6.87)
 
-## [2.6.7] - 10-04-2023
+## [2.6.7] - 10-04-2024
 - Melhoria: Atualização da sdk FaceTec(9.6.84)
 
-## [2.6.6] - 02-04-2023
+## [2.6.6] - 02-04-2024
 - Melhoria: Atualização da sdk FaceTec(9.6.82)
 
-## [2.6.5] - 19-03-2023
+## [2.6.5] - 19-03-2024
 - Melhoria: Atualização da sdk FaceTec(9.6.80)
 
-## [2.6.4] - 06-03-2023
+## [2.6.4] - 06-03-2024
 - Melhoria: Atualização da sdk FaceTec(9.6.78)
 
-## [2.6.3] - 21-02-2023
+## [2.6.3] - 21-02-2024
 - Melhoria: Atualização da sdk FaceTec(9.6.76)
 
 ## [2.6.2] - 05-02-2024
