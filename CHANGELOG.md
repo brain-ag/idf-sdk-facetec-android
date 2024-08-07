@@ -1,8 +1,11 @@
+## [3.0.3] - 31-07-2024
+- Melhoria: Atualização da sdk FaceTec(9.6.104)
+
 ## [3.0.2] - 18-07-2024
 - Correção: validação sslpinning.
 
-## [3.0.1] - 05-06-2024
-- Melhoria: Atualização da sdk FaceTec(9.6.94)
+## [3.0.1] - 17-07-2024
+- Melhoria: Atualização da sdk FaceTec(9.6.102)
 
 ## [3.0.0] - 26-04-2024
 - Melhoria: Adicionado flag (segurancaExtraSslPinning) para habilitar verificação sslpinning.
