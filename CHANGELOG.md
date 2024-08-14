@@ -1,3 +1,7 @@
+## [3.0.4] - 13-08-2024
+- Correção: Tratamento de objeto nulo.
+- Correção: Tratamento de remoção da status bar.
+
 ## [3.0.3] - 31-07-2024
 - Melhoria: Atualização da sdk FaceTec(9.6.104)
 
