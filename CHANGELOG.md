@@ -1,3 +1,6 @@
+## [3.0.5] - 23-09-2024
+- Correção: Validação se o dispositivo é um emulador.
+
 ## [3.0.4] - 13-08-2024
 - Correção: Tratamento de objeto nulo.
 - Correção: Tratamento de remoção da status bar.
