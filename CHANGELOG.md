@@ -1,3 +1,6 @@
+## [3.0.6] - 02-10-2024
+- Melhoria: Atualização da sdk FaceTec(9.7.34)
+
 ## [3.0.5] - 23-09-2024
 - Correção: Validação se o dispositivo é um emulador.
 
