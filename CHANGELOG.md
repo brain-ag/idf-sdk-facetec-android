@@ -1,3 +1,6 @@
+## [3.0.7] - 22-10-2024
+- Melhoria: - Adição de novo certificado.
+- 
 ## [3.0.6] - 02-10-2024
 - Melhoria: Atualização da sdk FaceTec(9.7.34)
 
