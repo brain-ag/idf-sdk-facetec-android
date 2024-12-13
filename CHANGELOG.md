@@ -1,8 +1,12 @@
+## [3.0.8] - 04-12-2024
+- Melhoria: Atualização SDK FaceTec (9.7.43).
+- Correção: Inicialização do componente no Android 15.
+
 ## [3.0.7] - 22-10-2024
-- Melhoria: - Adição de novo certificado.
-- 
+- Melhoria:  Adição de novo certificado.
+
 ## [3.0.6] - 02-10-2024
-- Melhoria: Atualização da sdk FaceTec(9.7.34)
+- Melhoria: Atualização SDK FaceTec 9.7.34).
 
 ## [3.0.5] - 23-09-2024
 - Correção: Validação se o dispositivo é um emulador.
@@ -12,13 +16,13 @@
 - Correção: Tratamento de remoção da status bar.
 
 ## [3.0.3] - 31-07-2024
-- Melhoria: Atualização da sdk FaceTec(9.6.104)
+- Melhoria: Atualização SDK FaceTec (9.6.104).
 
 ## [3.0.2] - 18-07-2024
 - Correção: validação sslpinning.
 
 ## [3.0.1] - 17-07-2024
-- Melhoria: Atualização da sdk FaceTec(9.6.102)
+- Melhoria: Atualização da sdk FaceTec (9.6.102).
 
 ## [3.0.0] - 26-04-2024
 - Melhoria: Adicionado flag (segurancaExtraSslPinning) para habilitar verificação sslpinning.
