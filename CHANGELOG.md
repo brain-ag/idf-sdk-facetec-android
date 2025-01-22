@@ -1,3 +1,6 @@
+## [3.0.9] - 21-01-2025
+- Melhoria: Atualização SDK FaceTec (9.7.51).
+
 ## [3.0.8] - 04-12-2024
 - Melhoria: Atualização SDK FaceTec (9.7.43).
 - Correção: Inicialização do componente no Android 15.
