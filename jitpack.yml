@@ -1,3 +1,0 @@
-install:
-  - FILE="-Dfile=idf-sdk-facetec-android-3.0.11.aar"
-  - mvn install:install-file $FILE -DgroupId=com.github.brain-ag -DartifactId=idf-sdk-facetec-android -Dversion=3.0.11 -Dpackaging=aar -DpomFile=idf-sdk-facetec-android-3.0.11.pom
