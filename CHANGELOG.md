@@ -1,3 +1,6 @@
+## [3.0.14] - 07-08-2025
+- Melhoria: Atualização SDK FaceTec (9.7.79).
+
 ## [3.0.13] - 03-06-2025
 - Melhoria: Atualização SDK FaceTec (9.7.69).
 
