@@ -1,5 +1,8 @@
+## [3.0.19] - 18-12-2025
+- Melhoria: Adicionado flag (habilitarStatusBar) para habilitar a status bar no device.
+
 ## [3.0.18] - 08-12-2025
-- Melhoria: Atualização SDK FaceTec (9.7.99)
+- Melhoria: Atualização SDK FaceTec (9.7.99).
 
 ## [3.0.17] - 24-10-2025
 - Melhoria: Atualização SDK FaceTec (9.7.93).
