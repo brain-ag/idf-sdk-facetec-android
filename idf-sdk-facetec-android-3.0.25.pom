@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.brain-ag</groupId>
   <artifactId>idf-sdk-facetec-android</artifactId>
-  <version>3.0.24</version>
+  <version>3.0.25</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -19,7 +19,7 @@
     <dependency>
       <groupId>com.github.brain-ag</groupId>
       <artifactId>serasa-idf-liveness3d-facetec-android</artifactId>
-      <version>9.7.133</version>
+      <version>9.7.139</version>
     </dependency>
     <dependency>
       <groupId>com.google.code.gson</groupId>
